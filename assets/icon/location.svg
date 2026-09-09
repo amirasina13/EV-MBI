@@ -1,0 +1,14 @@
+<svg width="512" height="256" viewBox="0 0 512 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background center circle (dashed) -->
+  <circle cx="256" cy="128" r="90" stroke="#D0D5DD" stroke-width="4" stroke-dasharray="8 14"/>
+
+  <!-- Location pin -->
+  <path d="M256 70C230 70 209 91 209 117C209 151 256 200 256 200C256 200 303 151 303 117C303 91 282 70 256 70Z"
+        stroke="#98A2B3" stroke-width="4" fill="none"/>
+
+  <!-- Pin center circle -->
+  <circle cx="256" cy="117" r="15" stroke="#98A2B3" stroke-width="4"/>
+
+  <!-- Ground line -->
+  <line x1="180" y1="210" x2="332" y2="210" stroke="#E4E7EC" stroke-width="4" stroke-linecap="round"/>
+</svg>
